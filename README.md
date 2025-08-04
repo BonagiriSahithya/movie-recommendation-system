@@ -101,23 +101,6 @@ The system might recommend:
 
 ---
 
-## ⭐️ Show Your Support
-
-If you like this project, consider giving it a ⭐️ on GitHub!
-
-````
-
----
-
-### ✅ How to Add This
-
-1. Save the above content in your `README.md` file.
-2. Then commit and push it:
-
-```bash
-git add README.md
-git commit -m "Add beautifully formatted project README"
-git push
-````
+-
 
 
